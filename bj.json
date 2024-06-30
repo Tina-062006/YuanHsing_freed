@@ -5,7 +5,7 @@
     "name": "good蘑",
     "api": "https://api.i2g.cn/api.php/provide/vod/at/xml",
     "download": "",
-    "jiexiUrl": "",
+    "jiexiUrl": "https://jx.i2g.cn/?url=",
     "group": "默认",
     "isActive": true,
     "status": "可用",
