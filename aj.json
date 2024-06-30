@@ -1,0 +1,37 @@
+[
+  {
+    "key": "good蘑",
+    "id": 17,
+    "name": "good蘑",
+    "api": "https://api.i2g.cn/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "需解析",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "key": "十点影视",
+    "id": 18,
+    "name": "十点影视(需解析)",
+    "api": "http://shidian.vip/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "需解析",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "key": "明日资源",
+    "id": 19,
+    "name": "明日资源(需解析)",
+    "api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "需解析",
+    "isActive": true,
+    "reverseOrder": true
+  }
+]
