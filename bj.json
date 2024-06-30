@@ -3,10 +3,10 @@
     "key": "good蘑",
     "id": 17,
     "name": "good蘑",
-    "api": "https://api.i2g.cn/api.php/provide/vod/",
+    "api": "https://api.i2g.cn/api.php/provide/vod/at/xml",
     "download": "",
     "jiexiUrl": "",
-    "group": "需解析",
+    "group": "默认",
     "isActive": true,
     "status": "可用",
     "reverseOrder": true
@@ -14,11 +14,11 @@
   {
     "key": "十点影视",
     "id": 18,
-    "name": "十点影视(需解析)",
-    "api": "http://shidian.vip/api.php/provide/vod/at/xml",
+    "name": "十点影视",
+    "api": "https://api.i2g.cn/api.php/provide/vod/at/xml",
     "download": "",
-    "jiexiUrl": "",
-    "group": "需解析",
+    "jiexiUrl": "https://jiexi.modujx01.com/?url=",
+    "group": "默认",
     "isActive": true,
     "status": "可用",
     "reverseOrder": true
